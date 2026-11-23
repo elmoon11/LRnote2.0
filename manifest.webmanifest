@@ -1,0 +1,16 @@
+{
+  "name": "LRnote — личный учебный планировщик",
+  "short_name": "LRnote",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f3f8",
+  "theme_color": "#eee9f7",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
